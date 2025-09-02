@@ -32,7 +32,9 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 - Jan Forbrich
 - Hugh Jones
 - Michael Kuhn
+- Laurinda Macaringue
 - Hariharan Muthu
+- Mwakoi Namukulo
 - Eoin O'Kelly
 - Simran Singh
 - Gabriella Zsidi
