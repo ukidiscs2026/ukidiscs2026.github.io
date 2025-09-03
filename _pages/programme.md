@@ -77,7 +77,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 ### 13:30–15:00 **Disc Processes 2** - Chair: Richard Booth
 - 13:30–13:45 **Planet migration in Turbulent Disc** — Yinhao Wu (Leicester)
 - 13:45–14:00 **Gone with Wind: CO depletion in MHD-wind driven discs** — Zuzanna Jonczyk (Leeds)
-- 14:00–14:15 **MRI and vertical oscillations in distorted disks** — Loren Held (DAMTP Cambridge)
+- 14:00–14:15 **Breaking of warped accretion disks in the local model** — Loren Held (DAMTP Cambridge)
 - 14:15–14:30 **Dust dynamics in the inner regions of protoplanetary disks** — Thomas Jannaud (DAMTP Cambridge)
 - 14:30–14:45 **Gas Heating & Cooling in Debris Discs: Insights from β Pic** — Sana Ahmed (Trinity)
 - 14:45–15:00 **A mechanism to form radially compact protoplanetary discs** — Simin Tong (Leicester)
