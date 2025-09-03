@@ -140,5 +140,19 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 <h1 id="posters" style="text-align: center;">Poster Presentations</h1>
 
-
-- TBR
+- **Dust trapping in protoplanetary discs after stellar flybys** — Pratishtha Rawat (Warwick)
+- **Dust trapping in protoplanetary discs after stellar flybys** — Vasundhara Prasad (Cambridge)
+- **Unusual Planetary Systems with Massive Debris Disks** — Zoe Parker (Leeds)
+- **Tracking the evolution of gas clumps in gravitational instability discs** — Luyao Zhang (Leicester)
+- **Dust Entrainment in External Photoevaporative Winds: Theory and Observation** — Sébastien Paine (QMUL)
+- **Planetesimal formation in weakly turbulent protoplanetary disks** — Fabiola Gerosa (UCL)
+- **Tracing Galactic Rotation with GAIA DR3: Dynamical Mapping in the Extended Solar Vicinity Using Young Stellar Kinematics** — Simran Singh (Herts)
+- **Signatures of terrestrial planets in exozodiacal disks** — Max Sommer (Stuttgart)
+- **Dipping Giants in the Nuclear Disc: eclipses by foreground YSO discs in the Central Molecular Zone?** — Philip Lucas (Herts)
+- **Collision velocities of dust grains in self-gravitating discs** — Cat Leedham (Cambridge)
+- **Supermassive star maser discs with multiple flybys** — Martin Krause (Herts)
+- **Wave damping in (proto-planetary) discs: The relative importance of viscous, thermal and non-linear wave damping** — Amelia Cordwell (Cambridge)
+- **The effect of disc photoevaporation on the evolution of migrating giant planets** — Emmanuel Greenfield (ICL)
+- **Detecting water ice and vapor in debris disks around white dwarfs with future PRIMA observations** — Ayaka Okuya (Warwick)
+- **Simultaneous TESS photometry and ground-based spectra of exocomets in β Pictoris** — Michael Elston (Canterbury)
+- **EXor Outbursts from SPICY young stars** — Mike Kuhn (Herts)
