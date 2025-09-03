@@ -115,7 +115,7 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 ### 10:45–11:15 Coffee Break
 
-### 11:15–12:30 **Formation of Planets & Brown Dwarfs 2 & EDI session** - Chair: Thomas Janneau
+### 11:15–12:30 **Formation of Planets & Brown Dwarfs 2 & EDI session** - Chair: Thomas Jannaud
 - 11:15–11:30 **Planet formation by disc fragmentation: the impact of dust growth on opacity** — Hans Lee (Leicester)
 - 11:30–11:45 **Planet formation sculpted by infall: the importance of multi-scale turbulence** — Andrew Winter (QMUL)
 - 11:45–12:15 **Equity and Inclusivity Practices in Academia** — Amena Faruqi (Warwick)
