@@ -19,7 +19,9 @@ The meeting spans three days of traditional conference-style talks and discussio
 **Abstract submission is now closed**
 <!-- **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**   -->
 
-**[Pay Here](https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025)** - See helpful notes below.
+**Payment is now closed**
+[- **[Pay Here](https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025)** - See helpful notes below.]: #
+
 
 i) **Shopping Basket Selection**  
 You can select items for purchase (Registration Fee, Accommodation if wanted) one at a time and add each to your shopping basket before paying.
