@@ -20,7 +20,7 @@ The meeting spans three days of traditional conference-style talks and discussio
 <!-- **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**   -->
 
 **Payment is now closed**
-[- **[Pay Here](https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025)** - See helpful notes below.]: #
+[- https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025 ]: #
 
 
 i) **Shopping Basket Selection**  
