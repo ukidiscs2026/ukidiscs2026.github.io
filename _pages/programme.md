@@ -140,6 +140,17 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 <h1 id="posters" style="text-align: center;">Poster Presentations</h1>
 
+<div align="center">
+  <figure style="display:inline-block; text-align:center; margin:0 12px;">
+    <img src="../assets/images/Zoe-with-award.jpg" alt="Zoe Parker" width="300">
+    <figcaption>Judges' Poster Prize for Zoe Parker</figcaption>
+  </figure>
+  <figure style="display:inline-block; text-align:center; margin:0 12px;">
+    <img src="../assets/images/Pratishtha-with-award.jpg" alt="Pratishtha Rawat" width="300">
+    <figcaption>Participants' Prize for Pratishtha Rawat</figcaption>
+  </figure>
+</div>
+
 - **Triggered fragmentation in self-gravitating protoplanetary disks** — Pratishtha Rawat (Warwick)
 - **Dust trapping in protoplanetary discs after stellar flybys** — Vasundhara Prasad (Cambridge)
 - **Unusual Planetary Systems with Massive Debris Disks** — Zoe Parker (Leeds)
