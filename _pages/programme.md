@@ -140,15 +140,22 @@ Please note that the meeting begins at 10:15 am on Monday, and at 9:15 am on bot
 
 <h1 id="posters" style="text-align: center;">Poster Presentations</h1>
 
-<div align="center">
-  <figure style="display:inline-block; text-align:center; margin:0 12px;">
-    <img src="../assets/images/Zoe-with-award.jpg" alt="Zoe Parker" width="300">
-    <figcaption>Judges' Poster Prize for Zoe Parker</figcaption>
-  </figure>
-  <figure style="display:inline-block; text-align:center; margin:0 12px;">
-    <img src="../assets/images/Pratishtha-with-award.jpg" alt="Pratishtha Rawat" width="300">
-    <figcaption>Participants' Prize for Pratishtha Rawat</figcaption>
-  </figure>
+<div style="max-width:820px; margin:0 auto;">
+  <div style="display:flex; justify-content:center; gap:24px; flex-wrap:wrap;">
+    <figure style="margin:0; text-align:center; width:300px;">
+      <img src="../assets/images/Zoe-with-award.jpg"
+           alt="Zoe Parker"
+           style="width:100% !important; height:auto; display:block;">
+      <figcaption>Judges' Poster Prize for Zoe Parker</figcaption>
+    </figure>
+
+    <figure style="margin:0; text-align:center; width:300px;">
+      <img src="../assets/images/Pratishtha-with-award.jpg"
+           alt="Pratishtha Rawat"
+           style="width:100% !important; height:auto; display:block;">
+      <figcaption>Participants' Prize for Pratishtha Rawat</figcaption>
+    </figure>
+  </div>
 </div>
 
 - **Triggered fragmentation in self-gravitating protoplanetary disks** — Pratishtha Rawat (Warwick)
