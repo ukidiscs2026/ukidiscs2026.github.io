@@ -13,22 +13,22 @@ The UKI discs meeting aims to bring together different astrophysical disc commun
 For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.uk).
 
 ## Invited Speakers
-- John Ilee (Leeds)
-- Amy Bonsor (Cambridge)
-- Minjae Kim (MSSL, UCL)
+- TBD
+- TBD
+- TBD
 
 ## SOC
 - Loren E Held (chair - DAMTP, Cambridge )
 - Thomas Jannaud (co-chair - DAMTP, Cambridge)
-- Jay Farihi (UCL)
-- Farzana Meru (Warwick)
-- Olja Panic (Leeds)
-- Tim Pearce (Warwick)
-- Emma Whelan (Maynooth)
+- Adam Ingram (Newcastle)
+- TBD
+- TBD
+- TBD
+- TBD
 
 ## LOC
-- Phil Lucas (chair - Hertfordshire)
-- Jessica Copeland
+- Loren E Held (chair - DAMTP, Cambridge)
+- Thomas Jannaud (co-chair - DAMTP, Cambridge)
 - Jan Forbrich
 - Hugh Jones
 - Michael Kuhn
