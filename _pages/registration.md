@@ -17,7 +17,7 @@ The meeting spans three days of traditional conference-style talks and discussio
 **Abstract submission will open soon**
 <!-- **[Register Here](https://forms.office.com/e/0HZE3ZiUZx)**   -->
 
-**Payment is will open soon**
+**Payment will open soon**
 
 [- https://herts.configio.com/pd/2521/uk-ireland-discs-conference-2025 ]: #
 
