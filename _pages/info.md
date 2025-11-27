@@ -16,8 +16,8 @@ header:
 The UKI Discs Meeting 2026 will take place in [Meeting Room 2 (MR2) at the Centre for Mathematical Sciences, Department of Applied Mathematics and Theoretical Physics]([https://maps.herts.ac.uk](https://www.cms.cam.ac.uk/how-find-us)). The department is within walking distance of nearby Churchill College (5min), the Institute of Astronomy (10min), Westminster College (15min), and the city center (20min). Bus info TBD.
 
 ## Accommodation {#Accommodation} 
-
-Student rooms are available on the de Havilland Campus at the University of Hertfordshire. These are a convenient and affordable option:
+Information coming soon.
+/*Student rooms are available on the de Havilland Campus at the University of Hertfordshire. These are a convenient and affordable option:
 - **£70** per night (room only)  
 - **£85** per night (room with breakfast<sup><a href="#breakfast-note">[1]</a></sup>)
 
@@ -31,22 +31,22 @@ There are relatively few budget hotel options in Hatfield this year. The nearby 
   <img src="../assets/images/UH_accomodation3.jpg" alt="Accommodation 3" width="250"/>
 </p>
 
-<p id="breakfast-note"><sup>[1]</sup> The prepaid breakfast option in the dining hall is only available on Tuesday 9th and Wednesday 10th. For those needing breakfast on Monday 8th, local options include the Sports Cafe on campus (limited selections) or the Wetherspoons close to campus for a full breakfast.</p>
+<p id="breakfast-note"><sup>[1]</sup> The prepaid breakfast option in the dining hall is only available on Tuesday 9th and Wednesday 10th. For those needing breakfast on Monday 8th, local options include the Sports Cafe on campus (limited selections) or the Wetherspoons close to campus for a full breakfast.</p>*/
 
 ## Campus Map {#Map}
 
 The meeting will take place in Meeting Room (MR2) in Pavilion A (Central Core) of the Centre for Mathematical Sciences.
-![Campus Map](../assets/images/de-Havilland-campus-map.png)
+![Campus Map](../assets/images/CentreForMathematicalSciencesMAP.png)
 
 
 ## Getting Here {#GettingHere}
 ### *Arriving by train*
-Hatfield Station is located just 1.5 miles from the University of Hertfordshire’s de Havilland and College Lane campuses. The station sits on the Great Northern Line, with regular direct services from London Kings Cross, making it easily accessible from central London and surrounding areas.
+Cambridge has two train stations, Cambridge North and Cambridge. We recommend arriving at Cambridge, which  is located just 2 miles from the Department of Applied Mathematics and Theoretical Physics. The station sits on the Great Northern Line, with regular direct services from London Kings Cross, making it easily accessible from central London and surrounding areas.
 
-From Hatfield Station, you can reach the campuses by UNO bus (£3, 10–15 minutes) or by taxi/Uber (approximately £8–£12, 5–10 minutes). The main bus routes serving the university are the 614 and 644, which depart from Stop 3 just outside the station and stop directly at both campuses. Services run frequently on weekdays, with slightly reduced schedules during evenings and weekends. For live schedules and ticket info, visit the UNO Bus website.
+From Cambridge Station, you can reach the department by bus (£3, 10–15 minutes) or by taxi/Uber (approximately £8–£12, 10-12 min) minutes). The main bus routes serving the university are the 614 and 644, which depart from Stop 3 just outside the station and stop directly at both campuses. Services run frequently on weekdays, with slightly reduced schedules during evenings and weekends. For live schedules and ticket info, visit the UNO Bus website.
 
 ### *Arriving by (long-distance) coach*
-You can travel to the University of Hertfordshire from other parts of the UK by long-distance coach via National Express, which operates services that stop at The Galleria in Hatfield—a short walk from the university’s College Lane and de Havilland campuses.
+You can travel to Cambridge from other parts of the UK by long-distance coach via National Express, which operates services that stop at Parkers Piece (near the centre of town) and Madingley Park and Ride in west Cambridge. The latter is about a 21min walk from the department.
 
 ### *Arriving by car*
 
@@ -63,13 +63,14 @@ Further details are at:
 You can ignore the mention of residential parking information since that refers to UH students.
 
 ### *Arriving by plane*
-Hatfield is relatively easy to reach from several London airports via public transport:
+Cambridge is relatively easy to reach from several London airports via public transport:
 
-- From Heathrow Airport, the Arriva 724 bus provides a direct service to The Galleria bus stop in Hatfield, located just across the road from the de Havilland Campus.
-- From Luton Airport, take the DART to Luton Airport Parkway Station, then a short train ride to St Albans City Station. From there, there are multiple direct buses to The Gallaria in Hatfield.
-- National Express operates a coach service from Stansted Airport that stops directly at The Galleria in Hatfield.
+- From Stansted Airport (closest option), TBD.
+- From Heathrow Airport, TBD.
+- From Luton Airport, TBD.
+- National Express operates a coach service from Stansted Airport that stops directly at TBD in Cambridge.
 
-These routes offer convenient and cost-effective options for reaching the University of Hertfordshire from London’s major airports.
+These routes offer convenient and cost-effective options for reaching Cambridge from London’s major airports.
 
 ## Food {#Food}
 
@@ -84,19 +85,11 @@ We will be providing refreshments (tea, coffee, fruit juice, water, biscuits) th
 There are a plethora of restaurants near the city centre catering to all tastes and dietary requirements. More information to follow soon.
 
 ## Local Interest {#Local}
-- Hatfield is just 7 miles from <a href='https://www.enjoystalbans.com/things-to-do/'>St Albans</a>, a historic market town with strong Roman and mediaeval roots. Highlights include St Albans Abbey and the Roman ruins of Verulamium. We plan to arrange transport to St Albans for conference groups to enjoy dinner together. 
-- Another Hatfield attraction is the <a href='https://hatfield-house.co.uk'>Hatfield House</a>, built by the Cecil family beside the remains of the original Tudor palace, where Mary I and Elizabeth I spent much of their childhoods. The house is surrounded by formal gardens and a large park. 
+Coming soon.
 
 ## Access to the Swimming Pool and Gym in the Sports Village {#Gym}
 
-The Sports Village adjacent to the conference venue is open to both staff, students and members of the public.  If you would like to use the pool, you can do the pay as you go rate which is £6.15 before 5pm Monday to Friday and on weekends. After 5pm Monday to Friday, the price is £7.20.  Swimming sessions do not need to be booked, but we advise checking the pool timetable before you arrive: [https://www.hertssportsvillage.co.uk/news-swimming-pool-timetable-9](https://www.hertssportsvillage.co.uk/news-swimming-pool-timetable-9)
-
-If you want to use the gym, you will need to create an account:  
-[https://www.hertssportsvillage.co.uk/](https://www.hertssportsvillage.co.uk/) (Click the 'Login' button at the top right, then go to 'Create an account'.) 
-
-For gym access you would need to complete a gym induction which can be done at reception on one of kiosks: no appointment is needed.  An off peak gym session is £11.75 and a peak session is £13.50. 
-
-
+Coming soon.
 
 
 
