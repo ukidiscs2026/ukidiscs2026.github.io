@@ -13,7 +13,7 @@ header:
 - [Local Interest](#Local)
 - [Pool and Gym](#Gym)
 
-The UKI Discs Meeting 2026 will take place in [Meeting Room 2 (MR2) at the Centre for Mathematical Sciences, Department of Applied Mathematics and Theoretical Physics]([https://maps.herts.ac.uk](https://www.cms.cam.ac.uk/how-find-us)). The department is within walking distance of nearby Churchill College (5min), the Institute of Astronomy (10min), Westminster College (15min), and the city center (20min). Bus info TBD.
+The UKI Discs Meeting 2026 will take place in [Meeting Room 2 (MR2) at the Centre for Mathematical Sciences, Department of Applied Mathematics and Theoretical Physics]([[https://maps.herts.ac.uk](https://www.cms.cam.ac.uk/how-find-us)]). The department is within walking distance of nearby Churchill College (5min), the Institute of Astronomy (10min), Westminster College (15min), and the city center (20min). Bus info TBD.
 
 ## Accommodation {#Accommodation} 
 Information coming soon.
