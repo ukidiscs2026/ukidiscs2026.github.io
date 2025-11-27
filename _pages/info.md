@@ -36,6 +36,9 @@ There are relatively few budget hotel options in Hatfield this year. The nearby 
 ## Campus Map {#Map}
 
 The meeting will take place in Meeting Room (MR2) in Pavilion A (Central Core) of the Centre for Mathematical Sciences.
+The Central Core can be accessed from Wilberforce Road, or (recommended) by entering past the Betty and Gordon Moore Library or the Faulkes Gatehouse (see map).
+- the registration desk will be located immediately to the right of the Central Core entrace
+- MR2 is located down the stairs which are immediately opposite the entrance to the Central Core
 ![Campus Map](../assets/images/CentreForMathematicalSciencesMAP.png)
 
 
@@ -65,10 +68,16 @@ You can ignore the mention of residential parking information since that refers 
 ### *Arriving by plane*
 Cambridge is relatively easy to reach from several London airports via public transport:
 
-- From Stansted Airport (closest option), TBD.
-- From Heathrow Airport, TBD.
-- From Luton Airport, TBD.
-- National Express operates a coach service from Stansted Airport that stops directly at TBD in Cambridge.
+- From Stansted Airport (closest option):
+      Train: direct trains from Stansted Airport to Cambridge.
+      Bus: National Express from Stansted Airport to Parkers Piece, Cambridge.
+- From Gatwick Airport:
+      Train: take direct train from Gatwick through London to Cambridge.
+- From Heathrow Airport:
+      Train: take Piccadilly Underground line to King's Cross. Take train from King's Cross to Cambridge.
+      Bus: take Natoinal Express from Heathrow Airport Terminal 5 to Parkers Piece, Cambridge.
+- From Luton Airport: 
+      Bus recommended: take National Express from Luton to Cambridge Parkers Piece.
 
 These routes offer convenient and cost-effective options for reaching Cambridge from London’s major airports.
 
