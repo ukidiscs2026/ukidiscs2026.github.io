@@ -6,7 +6,7 @@ header:
   caption: "Credit: © Loren E Held."
 ---
 
-The UKI discs meeting aims to bring together different astrophysical disc communities across the UK & Ireland. We are delighted to announce the third meeting of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge on 20th-22th July 2026! The theme of the meeting will be _Common processes in disks (winds/jets, planet-disk and planet-star/BH interactions, warps, dust) in protoplanetary disks, X-ray binaries, and AGN_, covering observations and theory. Scientific topics include but are not limited to: protoplanetary discs, protosatellite discs, debris discs, disc formation and evolution, winds and jets, irradiated discs and proplyds, planet-disc interactions and migration, planet and planetesimal formation, exocomets, disc chemistry, distorted and warped discs, discs in binaries, disc instabilities, disc turbulence, etc. The meeting will be held in a hybrid format.
+The UKI discs meeting aims to bring together different astrophysical disc communities across the UK & Ireland. We are delighted to announce the third meeting of this series will be hosted at the Department of Applied Mathematics and Theoretical Physics (DAMTP) at the University of Cambridge on 20th-22th July 2026! The theme of the meeting will be _Common processes in disks (winds/jets, planet-disk and planet-star/BH interactions, warps, turbulence/instabilities, and dust) in protoplanetary disks, X-ray binaries, and AGN_, covering observations and theory. The meeting will be held in a hybrid format.
 
 The UKI discs meeting aims to bring together different astrophysical disc communities across the UK & Ireland. We also welcome attendees from beyond these isles but numbers on-site will be limited to approximately 100.
 
@@ -29,22 +29,16 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 ## LOC
 - Loren E Held (chair - DAMTP, Cambridge)
 - Thomas Jannaud (co-chair - DAMTP, Cambridge)
-- Jan Forbrich
-- Hugh Jones
-- Michael Kuhn
-- Laurinda Macaringue
-- Hariharan Muthu
-- Mwakoi Namukulo
-- Eoin O'Kelly
-- Simran Singh
-- Gabriella Zsidi
+- Cristiano Longarini (Institute of Astronomy)
+- Amelia Cordwell (DAMTP, Cambridge)
+- Josh Brown (DAMTP, Cambridge)
 
 ## Important Dates
-- Registration and abstract submission opens: 4 April
-- Abstract submission for talks closes: 22th May (abstract submission for posters remains open)
-- Outcome of abstract submissions: mid-late June
-- Final registration and payment deadline: 31 July
-- Meeting: 8th September - 10th September
+- Registration and abstract submission opens: December 2025
+- Abstract submission for talks closes: April 2026 (abstract submission for posters remains open)
+- Outcome of abstract submissions: May 2026
+- Final registration and payment deadline: 31 May 2026
+- Meeting: 20th July - 22nd July
 
 ## Code of Conduct 
 
