@@ -22,7 +22,7 @@ For any queries, please email [discs2025@herts.ac.uk](mailto:discs2025@herts.ac.
 - Thomas Jannaud (co-chair - DAMTP, Cambridge)
 - Adam Ingram (Newcastle)
 - Farzana Meru (Warwick)
-- TBD
+- Emma Whelan (Maynooth University, Ireland)
 - TBD
 - TBD
 
